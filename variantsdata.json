@@ -1,0 +1,74 @@
+[
+    {
+        "is_active": true,
+        "modified_on": "2021-11-18T17:09:22.422886",
+        "id": 1,
+        "image": "chemicals.jpg",
+        "path": "Media/Product",
+        "category_id": 1,
+        "currency_id": 1,
+        "created_on": "2021-11-12T08:32:33.568881",
+        "name": "Chemicals Product",
+        "bucket": "faarms-commerce-uat",
+        "description": "description value",
+        "language_id": 1,
+        "variants": [
+            {
+                "id": 3,
+                "unit_multiples": 1.0,
+                "sku": "ALMSEEDS001KG",
+                "unit": "ml",
+                "display_unit": "1.0 ml",
+                "price": 105.0,
+                "special_price": 100.0,
+                "currency": "Rs."
+            },
+            {
+                "id": 1,
+                "unit_multiples": 1.0,
+                "sku": "ALMSEEDS001KGS",
+                "unit": "ml",
+                "display_unit": "1.0 ml",
+                "price": 105.0,
+                "special_price": 100.0,
+                "currency": "Rs."
+            }
+        ]
+    },
+    {
+        "is_active": true,
+        "modified_on": "2021-11-18T17:10:33.466146",
+        "id": 2,
+        "image": "seeds.jpg",
+        "path": "Media/Product",
+        "category_id": 1,
+        "currency_id": 1,
+        "created_on": "2021-11-15T08:31:21.187070",
+        "name": "Tractor Seeds",
+        "bucket": "faarms-commerce-uat",
+        "description": "Agriculture Machinery",
+        "language_id": 1,
+        "variants": [
+         {
+                "id": 1,
+                "unit_multiples": 1.0,
+                "sku": "ALMSEEDS001KG",
+                "unit": "ml",
+                "display_unit": "1.0 ml",
+                "price": 400.0,
+                "special_price": 300.0,
+                "currency": "Rs."
+            },
+            {
+                "id": 2,
+                "unit_multiples": 1.0,
+                "sku": "ALMSEEDS001KGS",
+                "unit": "ml",
+                "display_unit": "1.0 ml",
+                "price": 600.0,
+                "special_price": 200.0,
+                "currency": "Rs."
+            }
+]
+    }
+]
